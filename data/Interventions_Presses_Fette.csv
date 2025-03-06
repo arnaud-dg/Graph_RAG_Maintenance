@@ -1,0 +1,21 @@
+Date,Technicien,Rapport d'Intervention,Pièce Remplacée
+2025-10-06,BB,Problème d'éjection des comprimés. Réglage du rail d'éjection et remplacement de la rampe si nécessaire. Test fonctionnel effectué avec succès.,
+2025-04-22,CC,Usure des joints de poinçons. Remplacement des joints de poinçons pour éviter les fuites d'huile. Test fonctionnel effectué avec succès.,
+2025-12-10,CC,Fuite d'huile au niveau du carter. Remplacement des joints d'étanchéité et resserrage des vis du carter. Test fonctionnel effectué avec succès.,
+2025-06-08,BB,Vibrations anormales de la tourelle. Inspection des roulements et remplacement des pièces usées. Test fonctionnel effectué avec succès.,3766108
+2025-02-05,BB,Poinçons endommagés. Remplacement des poinçons usés pour éviter les défauts sur les comprimés. Test fonctionnel effectué avec succès.,
+2025-02-25,DD,Blocage du convoyeur. Nettoyage du convoyeur et lubrification des axes pour éviter les blocages. Test fonctionnel effectué avec succès.,2235229
+2025-01-16,BB,Erreur de transmission de données. Redémarrage du logiciel et vérification des connexions réseau. Test fonctionnel effectué avec succès.,3766108
+2025-10-25,BB,Surépaisseur des comprimés. Réglage de la force de compression et contrôle des paramètres de dosage. Test fonctionnel effectué avec succès.,2235229
+2025-08-31,DD,Roulements bruyants. Lubrification et remplacement des roulements si nécessaire. Test fonctionnel effectué avec succès.,3109085
+2025-06-18,CC,Bourrage du système de compression. Démontage et nettoyage complet du système de compression. Test fonctionnel effectué avec succès.,3752505
+2025-12-23,BB,Fuite d'huile au niveau du carter. Remplacement des joints d'étanchéité et resserrage des vis du carter. Test fonctionnel effectué avec succès.,2234343
+2025-12-22,BB,Détérioration du racleur. Changement du racleur et réglage de la hauteur pour optimiser l'évacuation. Test fonctionnel effectué avec succès.,
+2025-05-06,DD,Défaut de capteur de pression. Remplacement du capteur défectueux et test du circuit de commande. Test fonctionnel effectué avec succès.,3107014
+2025-05-08,DD,Dérèglement du Fill-O-Matic. Réajustement et calibration du Fill-O-Matic pour un dosage précis. Test fonctionnel effectué avec succès.,2143191
+2025-03-11,BB,Roulements bruyants. Lubrification et remplacement des roulements si nécessaire. Test fonctionnel effectué avec succès.,2236333
+2025-04-15,DD,Dysfonctionnement de la lubrification. Vérification des circuits de lubrification et purge du système. Test fonctionnel effectué avec succès.,3107014
+2025-05-22,CC,Détérioration du racleur. Changement du racleur et réglage de la hauteur pour optimiser l'évacuation. Test fonctionnel effectué avec succès.,2236333
+2025-12-14,BB,Problème de refroidissement du moteur. Nettoyage du circuit de refroidissement et remplacement du filtre à air. Test fonctionnel effectué avec succès.,
+2025-05-01,AA,Bourrage du système de compression. Démontage et nettoyage complet du système de compression. Test fonctionnel effectué avec succès.,3115549
+2025-10-13,AA,Surépaisseur des comprimés. Réglage de la force de compression et contrôle des paramètres de dosage. Test fonctionnel effectué avec succès.,
